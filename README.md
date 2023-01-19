@@ -53,3 +53,7 @@ Storyboarding is an excellent method for visually communicating design concepts 
 3. Ideate
 4. Prototype
 5. Test
+
+### What is UI?
+
+UI stands for User Interface. It refers to the way a user interacts with a computer program or application, such as the layout of buttons, menus, and other elements on a screen. It is the space where interactions between humans and a product or service occur. The goal of UI design is to make the user's interaction as simple and efficient as possible.
